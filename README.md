@@ -17,6 +17,7 @@ This project embarks on a journey to explore the deployment of a Two-Tier Archit
 3.	Use module blocks for ease of use and re-usability.
 
 **Prerequisites:**
+
     -    GitHub Account
     -    Sign up for Terraform Cloud
     -    Install the AWS CLI
